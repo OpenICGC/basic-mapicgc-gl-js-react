@@ -1,5 +1,5 @@
 
-  import React, { useRef, useEffect, useState } from 'react';
+  import  { useRef, useEffect, useState } from 'react';
   import {Map, Config} from 'mapicgc-gl-js';
   import "../node_modules/mapicgc-gl-js/dist/mapicgc-gl.css";
   import './map.css';
@@ -21,6 +21,7 @@
         style: data.Styles.TOPO,
         center: [1.808, 41.618],
         zoom: zoom
+        
       });
     }
     initMap();

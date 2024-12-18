@@ -3,6 +3,10 @@
   * Basic mapicgc-gl-js viewer
   * React + Vite
 
+### Demo 
+
+  * https://openicgc.github.io/basic-mapicgc-gl-js-viewer-react/dist/index.html
+
 ### Mapicgc-gl-js documentation
 
   * https://openicgc.github.io/mapicgc-doc/
