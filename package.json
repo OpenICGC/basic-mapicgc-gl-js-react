@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-     "build:prod": "vite build --base=/basic-mapicgc-gl-js-viewer-react/",
+     "build:prod": "vite build --base=/basic-mapicgc-gl-js-viewer-react/dist/",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
