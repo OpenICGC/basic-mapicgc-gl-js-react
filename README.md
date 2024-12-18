@@ -1,4 +1,4 @@
-## basic mapicgc-gl-js viewer React
+## Basic mapicgc-gl-js viewer React
 
   * Basic mapicgc-gl-js viewer
   * React + Vite
